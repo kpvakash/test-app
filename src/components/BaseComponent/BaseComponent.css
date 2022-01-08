@@ -1,0 +1,20 @@
+.employee {
+    background-color: rgb(111, 71, 255);
+    border-radius: 25px;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 5px 10px #888888;
+  }
+  .viewButton{
+    background-color: #1e7e21; /* Green */
+    border: none;
+    border-radius: 25px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
